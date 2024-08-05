@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\unruh\\Desktop\\BA-Thesis\\BA-Thesis\\Programmierungen\\Data-Security Layer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDB98D0-A6B0-4816-82DA-7461A22DD642}|Data-Security Layer\\Data-Security Layer.csproj|c:\\users\\unruh\\desktop\\ba-thesis\\ba-thesis\\programmierungen\\data-security layer\\data-security layer\\blocks\\genesisblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDB98D0-A6B0-4816-82DA-7461A22DD642}|Data-Security Layer\\Data-Security Layer.csproj|solutionrelative:data-security layer\\blocks\\genesisblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDB98D0-A6B0-4816-82DA-7461A22DD642}|Data-Security Layer\\Data-Security Layer.csproj|c:\\users\\unruh\\desktop\\ba-thesis\\ba-thesis\\programmierungen\\data-security layer\\data-security layer\\blocks\\chain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDB98D0-A6B0-4816-82DA-7461A22DD642}|Data-Security Layer\\Data-Security Layer.csproj|solutionrelative:data-security layer\\blocks\\chain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDB98D0-A6B0-4816-82DA-7461A22DD642}|Data-Security Layer\\Data-Security Layer.csproj|c:\\users\\unruh\\desktop\\ba-thesis\\ba-thesis\\programmierungen\\data-security layer\\data-security layer\\datasecuritylayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDB98D0-A6B0-4816-82DA-7461A22DD642}|Data-Security Layer\\Data-Security Layer.csproj|solutionrelative:data-security layer\\datasecuritylayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDB98D0-A6B0-4816-82DA-7461A22DD642}|Data-Security Layer\\Data-Security Layer.csproj|c:\\users\\unruh\\desktop\\ba-thesis\\ba-thesis\\programmierungen\\data-security layer\\data-security layer\\utils\\sha256hashing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDB98D0-A6B0-4816-82DA-7461A22DD642}|Data-Security Layer\\Data-Security Layer.csproj|solutionrelative:data-security layer\\utils\\sha256hashing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDB98D0-A6B0-4816-82DA-7461A22DD642}|Data-Security Layer\\Data-Security Layer.csproj|c:\\users\\unruh\\desktop\\ba-thesis\\ba-thesis\\programmierungen\\data-security layer\\data-security layer\\utils\\merklerootcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDB98D0-A6B0-4816-82DA-7461A22DD642}|Data-Security Layer\\Data-Security Layer.csproj|solutionrelative:data-security layer\\utils\\merklerootcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDB98D0-A6B0-4816-82DA-7461A22DD642}|Data-Security Layer\\Data-Security Layer.csproj|c:\\users\\unruh\\desktop\\ba-thesis\\ba-thesis\\programmierungen\\data-security layer\\data-security layer\\blocks\\genesisblockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDB98D0-A6B0-4816-82DA-7461A22DD642}|Data-Security Layer\\Data-Security Layer.csproj|solutionrelative:data-security layer\\blocks\\genesisblockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDB98D0-A6B0-4816-82DA-7461A22DD642}|Data-Security Layer\\Data-Security Layer.csproj|c:\\users\\unruh\\desktop\\ba-thesis\\ba-thesis\\programmierungen\\data-security layer\\data-security layer\\blocks\\chaindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDB98D0-A6B0-4816-82DA-7461A22DD642}|Data-Security Layer\\Data-Security Layer.csproj|solutionrelative:data-security layer\\blocks\\chaindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDB98D0-A6B0-4816-82DA-7461A22DD642}|Data-Security Layer\\Data-Security Layer.csproj|c:\\users\\unruh\\desktop\\ba-thesis\\ba-thesis\\programmierungen\\data-security layer\\data-security layer\\blocks\\blockeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDB98D0-A6B0-4816-82DA-7461A22DD642}|Data-Security Layer\\Data-Security Layer.csproj|solutionrelative:data-security layer\\blocks\\blockeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDB98D0-A6B0-4816-82DA-7461A22DD642}|Data-Security Layer\\Data-Security Layer.csproj|c:\\users\\unruh\\desktop\\ba-thesis\\ba-thesis\\programmierungen\\data-security layer\\data-security layer\\blocks\\blockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDB98D0-A6B0-4816-82DA-7461A22DD642}|Data-Security Layer\\Data-Security Layer.csproj|solutionrelative:data-security layer\\blocks\\blockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDB98D0-A6B0-4816-82DA-7461A22DD642}|Data-Security Layer\\Data-Security Layer.csproj|c:\\users\\unruh\\desktop\\ba-thesis\\ba-thesis\\programmierungen\\data-security layer\\data-security layer\\blocks\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDB98D0-A6B0-4816-82DA-7461A22DD642}|Data-Security Layer\\Data-Security Layer.csproj|solutionrelative:data-security layer\\blocks\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SHA256Hashing.cs",
+              "DocumentMoniker": "C:\\Users\\unruh\\Desktop\\BA-Thesis\\BA-Thesis\\Programmierungen\\Data-Security Layer\\Data-Security Layer\\Utils\\SHA256Hashing.cs",
+              "RelativeDocumentMoniker": "Data-Security Layer\\Utils\\SHA256Hashing.cs",
+              "ToolTip": "C:\\Users\\unruh\\Desktop\\BA-Thesis\\BA-Thesis\\Programmierungen\\Data-Security Layer\\Data-Security Layer\\Utils\\SHA256Hashing.cs",
+              "RelativeToolTip": "Data-Security Layer\\Utils\\SHA256Hashing.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T08:50:39.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MerkleRootCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\unruh\\Desktop\\BA-Thesis\\BA-Thesis\\Programmierungen\\Data-Security Layer\\Data-Security Layer\\Utils\\MerkleRootCalculator.cs",
+              "RelativeDocumentMoniker": "Data-Security Layer\\Utils\\MerkleRootCalculator.cs",
+              "ToolTip": "C:\\Users\\unruh\\Desktop\\BA-Thesis\\BA-Thesis\\Programmierungen\\Data-Security Layer\\Data-Security Layer\\Utils\\MerkleRootCalculator.cs",
+              "RelativeToolTip": "Data-Security Layer\\Utils\\MerkleRootCalculator.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAAAFIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T08:49:49.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GenesisBlockDTO.cs",
+              "DocumentMoniker": "C:\\Users\\unruh\\Desktop\\BA-Thesis\\BA-Thesis\\Programmierungen\\Data-Security Layer\\Data-Security Layer\\Blocks\\GenesisBlockDTO.cs",
+              "RelativeDocumentMoniker": "Data-Security Layer\\Blocks\\GenesisBlockDTO.cs",
+              "ToolTip": "C:\\Users\\unruh\\Desktop\\BA-Thesis\\BA-Thesis\\Programmierungen\\Data-Security Layer\\Data-Security Layer\\Blocks\\GenesisBlockDTO.cs",
+              "RelativeToolTip": "Data-Security Layer\\Blocks\\GenesisBlockDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T08:48:45.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenesisBlock.cs",
+              "DocumentMoniker": "C:\\Users\\unruh\\Desktop\\BA-Thesis\\BA-Thesis\\Programmierungen\\Data-Security Layer\\Data-Security Layer\\Blocks\\GenesisBlock.cs",
+              "RelativeDocumentMoniker": "Data-Security Layer\\Blocks\\GenesisBlock.cs",
+              "ToolTip": "C:\\Users\\unruh\\Desktop\\BA-Thesis\\BA-Thesis\\Programmierungen\\Data-Security Layer\\Data-Security Layer\\Blocks\\GenesisBlock.cs",
+              "RelativeToolTip": "Data-Security Layer\\Blocks\\GenesisBlock.cs",
+              "ViewState": "AQIAAKkAAAAAAAAAAAApwGUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T08:47:35.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChainDTO.cs",
+              "DocumentMoniker": "C:\\Users\\unruh\\Desktop\\BA-Thesis\\BA-Thesis\\Programmierungen\\Data-Security Layer\\Data-Security Layer\\Blocks\\ChainDTO.cs",
+              "RelativeDocumentMoniker": "Data-Security Layer\\Blocks\\ChainDTO.cs",
+              "ToolTip": "C:\\Users\\unruh\\Desktop\\BA-Thesis\\BA-Thesis\\Programmierungen\\Data-Security Layer\\Data-Security Layer\\Blocks\\ChainDTO.cs",
+              "RelativeToolTip": "Data-Security Layer\\Blocks\\ChainDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T08:46:02.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BlockEventHandler.cs",
+              "DocumentMoniker": "C:\\Users\\unruh\\Desktop\\BA-Thesis\\BA-Thesis\\Programmierungen\\Data-Security Layer\\Data-Security Layer\\Blocks\\BlockEventHandler.cs",
+              "RelativeDocumentMoniker": "Data-Security Layer\\Blocks\\BlockEventHandler.cs",
+              "ToolTip": "C:\\Users\\unruh\\Desktop\\BA-Thesis\\BA-Thesis\\Programmierungen\\Data-Security Layer\\Data-Security Layer\\Blocks\\BlockEventHandler.cs",
+              "RelativeToolTip": "Data-Security Layer\\Blocks\\BlockEventHandler.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAAD8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T08:44:08.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BlockDTO.cs",
+              "DocumentMoniker": "C:\\Users\\unruh\\Desktop\\BA-Thesis\\BA-Thesis\\Programmierungen\\Data-Security Layer\\Data-Security Layer\\Blocks\\BlockDTO.cs",
+              "RelativeDocumentMoniker": "Data-Security Layer\\Blocks\\BlockDTO.cs",
+              "ToolTip": "C:\\Users\\unruh\\Desktop\\BA-Thesis\\BA-Thesis\\Programmierungen\\Data-Security Layer\\Data-Security Layer\\Blocks\\BlockDTO.cs",
+              "RelativeToolTip": "Data-Security Layer\\Blocks\\BlockDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T08:42:45.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Block.cs",
+              "DocumentMoniker": "C:\\Users\\unruh\\Desktop\\BA-Thesis\\BA-Thesis\\Programmierungen\\Data-Security Layer\\Data-Security Layer\\Blocks\\Block.cs",
+              "RelativeDocumentMoniker": "Data-Security Layer\\Blocks\\Block.cs",
+              "ToolTip": "C:\\Users\\unruh\\Desktop\\BA-Thesis\\BA-Thesis\\Programmierungen\\Data-Security Layer\\Data-Security Layer\\Blocks\\Block.cs",
+              "RelativeToolTip": "Data-Security Layer\\Blocks\\Block.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAAAFsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T08:42:14.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataSecurityLayer.cs",
+              "DocumentMoniker": "C:\\Users\\unruh\\Desktop\\BA-Thesis\\BA-Thesis\\Programmierungen\\Data-Security Layer\\Data-Security Layer\\DataSecurityLayer.cs",
+              "RelativeDocumentMoniker": "Data-Security Layer\\DataSecurityLayer.cs",
+              "ToolTip": "C:\\Users\\unruh\\Desktop\\BA-Thesis\\BA-Thesis\\Programmierungen\\Data-Security Layer\\Data-Security Layer\\DataSecurityLayer.cs",
+              "RelativeToolTip": "Data-Security Layer\\DataSecurityLayer.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAABUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T08:35:22.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Chain.cs",
+              "DocumentMoniker": "C:\\Users\\unruh\\Desktop\\BA-Thesis\\BA-Thesis\\Programmierungen\\Data-Security Layer\\Data-Security Layer\\Blocks\\Chain.cs",
+              "RelativeDocumentMoniker": "Data-Security Layer\\Blocks\\Chain.cs",
+              "ToolTip": "C:\\Users\\unruh\\Desktop\\BA-Thesis\\BA-Thesis\\Programmierungen\\Data-Security Layer\\Data-Security Layer\\Blocks\\Chain.cs",
+              "RelativeToolTip": "Data-Security Layer\\Blocks\\Chain.cs",
+              "ViewState": "AQIAAJEAAAAAAAAAAAAqwGgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T10:50:05.49Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

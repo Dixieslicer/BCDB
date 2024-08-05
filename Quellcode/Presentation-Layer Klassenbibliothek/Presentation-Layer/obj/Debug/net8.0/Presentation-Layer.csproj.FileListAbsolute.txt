@@ -1,0 +1,19 @@
+C:\Users\unruh\Desktop\BA-Thesis\BA-Thesis\Programmierungen\BA-Thesis Ansatz 2\Presentation-Layer\bin\Debug\net8.0\Presentation-Layer.exe
+C:\Users\unruh\Desktop\BA-Thesis\BA-Thesis\Programmierungen\BA-Thesis Ansatz 2\Presentation-Layer\bin\Debug\net8.0\Presentation-Layer.deps.json
+C:\Users\unruh\Desktop\BA-Thesis\BA-Thesis\Programmierungen\BA-Thesis Ansatz 2\Presentation-Layer\bin\Debug\net8.0\Presentation-Layer.runtimeconfig.json
+C:\Users\unruh\Desktop\BA-Thesis\BA-Thesis\Programmierungen\BA-Thesis Ansatz 2\Presentation-Layer\bin\Debug\net8.0\Presentation-Layer.dll
+C:\Users\unruh\Desktop\BA-Thesis\BA-Thesis\Programmierungen\BA-Thesis Ansatz 2\Presentation-Layer\bin\Debug\net8.0\Presentation-Layer.pdb
+C:\Users\unruh\Desktop\BA-Thesis\BA-Thesis\Programmierungen\BA-Thesis Ansatz 2\Presentation-Layer\obj\Debug\net8.0\Presentation-Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unruh\Desktop\BA-Thesis\BA-Thesis\Programmierungen\BA-Thesis Ansatz 2\Presentation-Layer\obj\Debug\net8.0\Presentation-Layer.AssemblyInfoInputs.cache
+C:\Users\unruh\Desktop\BA-Thesis\BA-Thesis\Programmierungen\BA-Thesis Ansatz 2\Presentation-Layer\obj\Debug\net8.0\Presentation-Layer.AssemblyInfo.cs
+C:\Users\unruh\Desktop\BA-Thesis\BA-Thesis\Programmierungen\BA-Thesis Ansatz 2\Presentation-Layer\obj\Debug\net8.0\Presentation-Layer.csproj.CoreCompileInputs.cache
+C:\Users\unruh\Desktop\BA-Thesis\BA-Thesis\Programmierungen\BA-Thesis Ansatz 2\Presentation-Layer\obj\Debug\net8.0\Presentation-Layer.sourcelink.json
+C:\Users\unruh\Desktop\BA-Thesis\BA-Thesis\Programmierungen\BA-Thesis Ansatz 2\Presentation-Layer\obj\Debug\net8.0\Presentation-Layer.dll
+C:\Users\unruh\Desktop\BA-Thesis\BA-Thesis\Programmierungen\BA-Thesis Ansatz 2\Presentation-Layer\obj\Debug\net8.0\refint\Presentation-Layer.dll
+C:\Users\unruh\Desktop\BA-Thesis\BA-Thesis\Programmierungen\BA-Thesis Ansatz 2\Presentation-Layer\obj\Debug\net8.0\Presentation-Layer.pdb
+C:\Users\unruh\Desktop\BA-Thesis\BA-Thesis\Programmierungen\BA-Thesis Ansatz 2\Presentation-Layer\obj\Debug\net8.0\Presentation-Layer.genruntimeconfig.cache
+C:\Users\unruh\Desktop\BA-Thesis\BA-Thesis\Programmierungen\BA-Thesis Ansatz 2\Presentation-Layer\obj\Debug\net8.0\ref\Presentation-Layer.dll
+C:\Users\unruh\Desktop\BA-Thesis\BA-Thesis\Programmierungen\BA-Thesis Ansatz 2\Presentation-Layer\obj\Debug\net8.0\Presentation-Layer.csproj.AssemblyReference.cache
+C:\Users\unruh\Desktop\BA-Thesis\BA-Thesis\Programmierungen\BA-Thesis Ansatz 2\Presentation-Layer\bin\Debug\net8.0\Data-Security Layer.dll
+C:\Users\unruh\Desktop\BA-Thesis\BA-Thesis\Programmierungen\BA-Thesis Ansatz 2\Presentation-Layer\bin\Debug\net8.0\Data-Security Layer.pdb
+C:\Users\unruh\Desktop\BA-Thesis\BA-Thesis\Programmierungen\BA-Thesis Ansatz 2\Presentation-Layer\obj\Debug\net8.0\Presenta.B0A87B24.Up2Date

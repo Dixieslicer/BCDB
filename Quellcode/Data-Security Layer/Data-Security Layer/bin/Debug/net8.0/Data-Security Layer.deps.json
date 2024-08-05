@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Data-Security Layer/1.0.0": {
+        "runtime": {
+          "Data-Security Layer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Data-Security Layer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
